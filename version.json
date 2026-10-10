@@ -1,1 +1,8 @@
-{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/sharekni-updates/main/Sharekni-v2.5.apk","notes":"إصلاح وصول التركيز لأزرار الملفات بالريموت 📺","versionCode":20261022,"versionName":"2.5"}
+{
+  "versionCode": 20261033,
+  "versionName": "2.6",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/sharekni-updates/main/Sharekni.apk",
+  "url": "https://github.com/Ayham19877/sharekni-updates/raw/main/Sharekni.apk",
+  "notes": "التحميل صار يعيد المحاولة تلقائياً 3 مرات عند انقطاع الاتصال — للملفات الكبيرة.",
+  "date": "2026-10-10T02:08:00Z"
+}
