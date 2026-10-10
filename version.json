@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261033,
-  "versionName": "2.6",
+  "versionCode": 20261034,
+  "versionName": "2.7",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/sharekni-updates/main/Sharekni.apk",
   "url": "https://github.com/Ayham19877/sharekni-updates/raw/main/Sharekni.apk",
-  "notes": "التحميل صار يعيد المحاولة تلقائياً 3 مرات عند انقطاع الاتصال — للملفات الكبيرة.",
-  "date": "2026-10-10T02:08:00Z"
+  "notes": "تحميل قابل للاستئناف للملفات الكبيرة: عند انقطاع الاتصال يُكمل من حيث توقف بدل البدء من الصفر.",
+  "date": "2026-10-10T02:40:00Z"
 }
